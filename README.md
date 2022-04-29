@@ -1,4 +1,6 @@
-### Welcome to my profile! 👋
+![My image](https://github.com/Malcolm-Tompkins/Malcolm-Tompkins/blob/main/Github Profile.png?raw=true)
+### Welcome to my profile 
+### Welcome to my profile 
 
 <!--
 **Malcolm-Tompkins/Malcolm-Tompkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
