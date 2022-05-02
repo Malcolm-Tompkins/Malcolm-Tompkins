@@ -1,4 +1,4 @@
-![My image](https://github.com/Malcolm-Tompkins/Malcolm-Tompkins/blob/main/Github Profile.png?raw=true)
+![My image](https://github.com/Malcolm-Tompkins/Malcolm-Tompkins/blob/main/GithubProfile.png?raw=true)
 ### Welcome to my profile 
 ### Welcome to my profile 
 
